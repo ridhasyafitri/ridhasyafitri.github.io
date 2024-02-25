@@ -218,12 +218,22 @@ h4{
 }
 
 .about-text p{
-    color: #fcfc;
+    color: rgba(255, 255, 255, 0.637);
     letter-spacing: 1px;
     line-height: 28px;
     font-size:  18px;
-    margin-bottom: 45px;
+    margin-bottom: 30px;
 }
+
+.text{
+    color: #fafafa;
+    font-size: 25px;
+    letter-spacing: 0.5px;
+    cursor: pointer;
+    text-align: justify;
+    word-spacing: 10px;
+}
+
 
 button{
     background-color: #20b2aa;
@@ -232,7 +242,7 @@ button{
     font-weight:  bold;
     padding:  13px;
     border-radius: 30px;
-    transition:  .4s;
+    transition: .4s;
 }
 
 button:hover{
@@ -321,6 +331,7 @@ footer .end{
     color: #fff;
     margin-bottom: 10px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
 }
 
 
