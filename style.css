@@ -6,6 +6,9 @@
     scroll-behavior: smooth;
 }
 
+html{
+    scroll-behavior: smooth;
+}
 #servis{
     background: #101010;
     width: 100%;
